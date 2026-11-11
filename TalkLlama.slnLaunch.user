@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\TalkLlama.Orchestrator\\TalkLlama.Orchestrator.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\TalkLlama.Stt\\TalkLlama.Stt.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\Talkllama.DesktopClient\\Talkllama.DesktopClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\TalkLlama.Tts\\TalkLlama.Tts.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

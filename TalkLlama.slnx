@@ -1,0 +1,31 @@
+<Solution>
+  <Folder Name="/deploy/" />
+  <Folder Name="/deploy/docker/">
+    <File Path="deploy/docker/Readme.md" />
+  </Folder>
+  <Folder Name="/deploy/k8s/">
+    <File Path="deploy/k8s/Readme.md" />
+  </Folder>
+  <Folder Name="/scripts/" />
+  <Folder Name="/scripts/test/">
+    <File Path="scripts/test/audioGenerator.ps1" />
+    <File Path="scripts/test/test-orchestrator.ps1" />
+    <File Path="scripts/test/test-stt.ps1" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <File Path="src/Readme.md" />
+    <Project Path="src/Talkllama.DesktopClient/Talkllama.DesktopClient.csproj" />
+    <Project Path="src/TalkLlama.Orchestrator/TalkLlama.Orchestrator.csproj" />
+    <Project Path="src/TalkLlama.Stt/TalkLlama.Stt.csproj" />
+    <Project Path="src/TalkLlama.Tts/TalkLlama.Tts.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <File Path="Brain/docker-compose.yml" />
+    <Project Path="tests/TheCodeman.TalkllamaToMe.SpeechOrchestrator.ManualTest/TheCodeman.TalkllamaToMe.SpeechOrchestrator.ManualTest.csproj" />
+  </Folder>
+</Solution>

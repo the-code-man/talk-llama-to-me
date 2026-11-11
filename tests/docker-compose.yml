@@ -1,0 +1,19 @@
+services:
+  brain-ollama:
+    image: ollama/ollama:latest
+    container_name: talk-ollama-brain
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_storage:/root/.ollama
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    restart: unless-stopped
+
+volumes:
+  ollama_storage:
