@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\TheCodeMan\\talk-llama-to-me\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECA40704-BD71-5D0F-7214-A4C09BCAD78B}|src\\TalkLlama.Orchestrator\\TalkLlama.Orchestrator.csproj|d:\\thecodeman\\talk-llama-to-me\\src\\talkllama.orchestrator\\controllers\\promptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECA40704-BD71-5D0F-7214-A4C09BCAD78B}|src\\TalkLlama.Orchestrator\\TalkLlama.Orchestrator.csproj|solutionrelative:src\\talkllama.orchestrator\\controllers\\promptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D078F8D-279C-BA11-2CCC-3E098DDA6B82}|src\\Talkllama.DesktopClient\\Talkllama.DesktopClient.csproj|d:\\thecodeman\\talk-llama-to-me\\src\\talkllama.desktopclient\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{0D078F8D-279C-BA11-2CCC-3E098DDA6B82}|src\\Talkllama.DesktopClient\\Talkllama.DesktopClient.csproj|solutionrelative:src\\talkllama.desktopclient\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FC233-BACD-C2CC-C520-7DF9D5FFFFA8}|src\\TalkLlama.Tts\\TalkLlama.Tts.csproj|d:\\thecodeman\\talk-llama-to-me\\src\\talkllama.tts\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FC233-BACD-C2CC-C520-7DF9D5FFFFA8}|src\\TalkLlama.Tts\\TalkLlama.Tts.csproj|solutionrelative:src\\talkllama.tts\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA40704-BD71-5D0F-7214-A4C09BCAD78B}|src\\TalkLlama.Orchestrator\\TalkLlama.Orchestrator.csproj|d:\\thecodeman\\talk-llama-to-me\\src\\talkllama.orchestrator\\controllers\\promptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA40704-BD71-5D0F-7214-A4C09BCAD78B}|src\\TalkLlama.Orchestrator\\TalkLlama.Orchestrator.csproj|solutionrelative:src\\talkllama.orchestrator\\controllers\\promptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37CBB2A6-AD44-7458-84EC-B8E991D5F6DD}|src\\TalkLlama.Stt\\TalkLlama.Stt.csproj|d:\\thecodeman\\talk-llama-to-me\\src\\talkllama.stt\\controllers\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{153FC233-BACD-C2CC-C520-7DF9D5FFFFA8}|src\\TalkLlama.Tts\\TalkLlama.Tts.csproj|d:\\thecodeman\\talk-llama-to-me\\src\\talkllama.tts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{153FC233-BACD-C2CC-C520-7DF9D5FFFFA8}|src\\TalkLlama.Tts\\TalkLlama.Tts.csproj|solutionrelative:src\\talkllama.tts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{153FC233-BACD-C2CC-C520-7DF9D5FFFFA8}|src\\TalkLlama.Tts\\TalkLlama.Tts.csproj|d:\\thecodeman\\talk-llama-to-me\\src\\talkllama.tts\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{153FC233-BACD-C2CC-C520-7DF9D5FFFFA8}|src\\TalkLlama.Tts\\TalkLlama.Tts.csproj|solutionrelative:src\\talkllama.tts\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{153FC233-BACD-C2CC-C520-7DF9D5FFFFA8}|src\\TalkLlama.Tts\\TalkLlama.Tts.csproj|d:\\thecodeman\\talk-llama-to-me\\src\\talkllama.tts\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -34,37 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PromptController.cs",
               "DocumentMoniker": "D:\\TheCodeMan\\talk-llama-to-me\\src\\TalkLlama.Orchestrator\\Controllers\\PromptController.cs",
               "RelativeDocumentMoniker": "src\\TalkLlama.Orchestrator\\Controllers\\PromptController.cs",
               "ToolTip": "D:\\TheCodeMan\\talk-llama-to-me\\src\\TalkLlama.Orchestrator\\Controllers\\PromptController.cs",
               "RelativeToolTip": "src\\TalkLlama.Orchestrator\\Controllers\\PromptController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAIAwwFIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-10T14:21:23.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TheCodeMan\\talk-llama-to-me\\src\\Talkllama.DesktopClient\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "src\\Talkllama.DesktopClient\\MainWindow.xaml.cs",
               "ToolTip": "D:\\TheCodeMan\\talk-llama-to-me\\src\\Talkllama.DesktopClient\\MainWindow.xaml.cs",
               "RelativeToolTip": "src\\Talkllama.DesktopClient\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAcwEoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFcAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-10T14:20:07.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AudioController.cs",
               "DocumentMoniker": "D:\\TheCodeMan\\talk-llama-to-me\\src\\TalkLlama.Stt\\Controllers\\AudioController.cs",
               "RelativeDocumentMoniker": "src\\TalkLlama.Stt\\Controllers\\AudioController.cs",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TheCodeMan\\talk-llama-to-me\\src\\TalkLlama.Tts\\Program.cs",
               "RelativeDocumentMoniker": "src\\TalkLlama.Tts\\Program.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\TheCodeMan\\talk-llama-to-me\\src\\TalkLlama.Tts\\Startup.cs",
               "RelativeDocumentMoniker": "src\\TalkLlama.Tts\\Startup.cs",
