@@ -60,3 +60,4 @@ nunit-*.xml
 *.vsidx
 *.suo
 [.vs]
+*.wav
